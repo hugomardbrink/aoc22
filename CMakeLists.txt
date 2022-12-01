@@ -9,3 +9,4 @@ if( NOT CMAKE_BUILD_TYPE )
    SET( CMAKE_BUILD_TYPE Release )
 endif()
 
+add_executable(d1 "d1/main.cxx") 
