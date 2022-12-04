@@ -10,3 +10,4 @@ if( NOT CMAKE_BUILD_TYPE )
 endif()
 
 add_executable(d1 "d1/main.cxx") 
+add_executable(d2 "d2/main.cxx") 
