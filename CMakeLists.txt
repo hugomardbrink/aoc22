@@ -11,3 +11,4 @@ endif()
 
 add_executable(d1 "d1/main.cxx") 
 add_executable(d2 "d2/main.cxx") 
+add_executable(d3 "d3/main.cxx") 
